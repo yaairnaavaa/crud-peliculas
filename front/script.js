@@ -1,4 +1,4 @@
-const API_URL = "https://api-peliculas-five.vercel.app/";
+const API_URL = "https://api-peliculas-five.vercel.app/peliculas";
 
 const formulario = document.getElementById("formulario");
 const id = document.getElementById("id");
